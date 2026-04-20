@@ -15,3 +15,4 @@ cd YOUR_REPO`
 2. Install dependencies: `pip install yfinance pandas numpy tabulate colorama`
 3. Update ticker to analyze the company of your choice: `DEFAULT_TICKER = "TICKER OF YOUR CHOICE"` Script line 33
 4. Run the analysis: `python main.py`
+5. See `single_stock_analysis_output_RMS.PA.txt` for output example
