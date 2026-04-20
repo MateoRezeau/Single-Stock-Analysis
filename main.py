@@ -30,7 +30,7 @@ init(autoreset=True)
 #  CONFIGURATION
 # ─────────────────────────────────────────────
 
-DEFAULT_TICKER = "MC.PA"   # Hermès International
+DEFAULT_TICKER = "TICKER_OF_YOUR_CHOICE"   # Ticker
 DEFAULT_YEARS  = 3
 CURRENCY_SYMBOL = "€"       # Change to "$" for US stocks
 
