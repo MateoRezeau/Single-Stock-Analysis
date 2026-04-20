@@ -4,11 +4,6 @@
 ║                  Powered by yfinance                             ║
 ╚══════════════════════════════════════════════════════════════════╝
 
-Usage:
-    python financial_analysis.py
-    python financial_analysis.py --ticker RMS.PA
-    python financial_analysis.py --ticker AAPL --years 4
-
 Requirements:
     pip install yfinance pandas numpy tabulate colorama
 """
